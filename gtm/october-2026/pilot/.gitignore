@@ -1,0 +1,3 @@
+# Prospect exports contain personal contact data; keep out of git.
+*
+!.gitignore
